@@ -1,5 +1,13 @@
-# Final-Group-Project
+# Quoridor Board Game
+Purpose:
+- Final Grade in the STA Python class. (designing a board game)
 
-Group for Project:
+Group:
 - Roman Wambugu
 - Isaiah Hernandez
+
+## Introduction
+...
+
+## How to Play
+...
